@@ -53,7 +53,7 @@ This project contains a Python script `flip_book_downloader.py` designed to down
 
 ## Example
 
-- **Flipbook Base URL**: `https://online.fliphtml5.com/xpldh/hdnh/#p=1`
+- **Flipbook Base URL**: ``
 - **Number of Pages**: `10`
 - **Is the last page single?**: `No`
 - **Output Folder**: `./output`
@@ -73,4 +73,3 @@ Feel free to submit issues or pull requests if you have any improvements or bug 
 ## Acknowledgments
 
 - This project uses the Selenium and Pillow libraries.
-- Special thanks to the online publication [here](https://online.fliphtml5.com/xpldh/hdnh/#p=1) for providing the flipbook used in this project.
