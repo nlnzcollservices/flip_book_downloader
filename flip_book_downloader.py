@@ -10,6 +10,12 @@ import os
 from PIL import Image
 
 def crop_image(input_path, output_path, top_percent, bottom_percent, left_percent, right_percent):
+    """Cropping shapshots by given percentage.
+    Parameters:
+        input_path(str) - path to image,
+        output_path(str) - path to cropped image
+        top_percent, bottom_percent, left_percent, right_percent (float or integer) - percent to crop image from each side
+    """
     img = Image.open(input_path)
     width, height = img.size
     left = width * left_percent / 100
