@@ -20,7 +20,7 @@ This project contains a Python script `flip_book_downloader.py` designed to down
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/flipbook_downloader.git
+    git clone https://github.com/nlnzcollservices/flipbook_downloader.git
     cd flipbook_downloader
     ```
 
