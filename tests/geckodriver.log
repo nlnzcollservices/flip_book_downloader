@@ -1,0 +1,76 @@
+1721263180880	geckodriver	INFO	Listening on 127.0.0.1:54077
+1721263183922	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54078" "-no-remote" "-profile" "C:\\Users\\Korotesv\\AppData\\Local\\Temp\\rust_mozprofileK708yy"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "dia.govt.nz" - not a valid origin.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721263184425	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721263184542	Marionette	INFO	Listening on port 54085
+WebDriver BiDi listening on ws://127.0.0.1:54078
+1721263184580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54078/devtools/browser/7ceb4827-8d4d-4f1b-a876-519386f5c072
+1721263214909	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1721263359483	Marionette	INFO	Stopped listening on port 54085
+Dynamically enable window occlusion 1
+1721264319240	geckodriver	INFO	Listening on 127.0.0.1:56158
+1721264322288	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56159" "-no-remote" "-profile" "C:\\Users\\Korotesv\\AppData\\Local\\Temp\\rust_mozprofileXMbJm0"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "dia.govt.nz" - not a valid origin.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721264322636	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721264322708	Marionette	INFO	Listening on port 56165
+WebDriver BiDi listening on ws://127.0.0.1:56159
+1721264322872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56159/devtools/browser/31bf5e13-9507-4b32-afcd-f94c61f0e4e5
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1721264352693	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1721264406276	Marionette	INFO	Stopped listening on port 56165
+Dynamically enable window occlusion 1
+1721267557666	geckodriver	INFO	Listening on 127.0.0.1:51836
+1721267560663	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51837" "-no-remote" "-profile" "C:\\Users\\Korotesv\\AppData\\Local\\Temp\\rust_mozprofileqb9bOT"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "dia.govt.nz" - not a valid origin.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721267561202	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721267561324	Marionette	INFO	Listening on port 51845
+WebDriver BiDi listening on ws://127.0.0.1:51837
+1721267561432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51837/devtools/browser/1cd91816-c836-4ae3-98aa-1d3c902f41a5
+1721267591233	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1721267649515	Marionette	INFO	Stopped listening on port 51845
+Dynamically enable window occlusion 1
+1721267753073	geckodriver	INFO	Listening on 127.0.0.1:51976
+1721267756119	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51977" "-no-remote" "-profile" "C:\\Users\\Korotesv\\AppData\\Local\\Temp\\rust_mozprofileiVsxI7"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "dia.govt.nz" - not a valid origin.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721267756580	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721267756701	Marionette	INFO	Listening on port 51982
+WebDriver BiDi listening on ws://127.0.0.1:51977
+1721267756812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51977/devtools/browser/d26cec85-6c74-48b4-9b56-8198a1686def
+1721267786608	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1721267938394	Marionette	INFO	Stopped listening on port 51982
+Dynamically enable window occlusion 1
+1721268729273	geckodriver	INFO	Listening on 127.0.0.1:52641
+1721268732290	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52642" "-no-remote" "-profile" "C:\\Users\\Korotesv\\AppData\\Local\\Temp\\rust_mozprofile8m2ozy"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "dia.govt.nz" - not a valid origin.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721268732829	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1721268732966	Marionette	INFO	Listening on port 52650
+WebDriver BiDi listening on ws://127.0.0.1:52642
+1721268733086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52642/devtools/browser/0df09b27-5b7c-4c26-b74f-0ed5c886b2a8
+1721268762862	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1721268927024	Marionette	INFO	Stopped listening on port 52650
+Dynamically enable window occlusion 1
