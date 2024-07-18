@@ -14,7 +14,7 @@ from flip_book_downloader import crop_image
 # Test crop_image function
 def test_crop_image_vertical(tmp_path):
     # Paths for input and output
-    original_image_path = os.path.join(os.getcwd(), 'images', 'single.png')
+    original_image_path = os.path.join(os.getcwd(), 'tests',  'images', 'single.png')
     input_path = tmp_path / "single_temp.png"
     output_path = tmp_path / "cropped_vertical.png"
 
@@ -39,7 +39,7 @@ def test_crop_image_vertical(tmp_path):
 
 def test_crop_image_horizontal(tmp_path):
     # Paths for input and output
-    original_image_path = os.path.join(os.getcwd(), 'images', 'double.png')
+    original_image_path = os.path.join(os.getcwd(), 'tests','images', 'double.png')
     input_path = tmp_path / "double_temp.png"
     output_path = tmp_path / "cropped_horizontal.png"
 
