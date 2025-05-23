@@ -1,3 +1,7 @@
+# Deprecated - See [Flipbook-Webscraping](https://github.com/nlnzcollservices/Flipbook-Webscraping) instead.
+
+----
+
 # Flip Book Downloader and Cropper
 
 This project contains a Python script `flip_book_downloader.py` designed to download and crop images from an online flipbook. The purpose of this script is to collect pages from the publication available at [this link](https://online.fliphtml5.com/xpldh/hdnh/#p=1).
